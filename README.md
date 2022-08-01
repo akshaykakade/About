@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java,Spring Boot.
-- 🌱 I’m currently learning Javascript ,React.
+- 🔭 I’m currently working on Java,Spring Boot and creating REST API's.
+- 🌱 I’m have created some minor projects in those technolgies...
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: [LinkedIn @akshaykakade](https://www.linkedin.com/in/akshay-kakade-974963149/)
 - 😄 Pronouns: He
